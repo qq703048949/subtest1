@@ -1,0 +1,3 @@
+[submodule "lib/Ginseng"]
+	path = lib/Ginseng
+	url = ssh://deploy@d.tvxio.com/home/deploy/develop/Vcloud/Ginseng.git
